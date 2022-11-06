@@ -1,3 +1,5 @@
 Kind of hacky blockbench plugin for making Minetest nodeboxes. 
 
 Since (as far as I can tell) there's no way to change blockbench's units in proportion to the grid (1 unit = 16th of a block), it's instead recommended to set the grid resolution to 10 (or a multiple of 10) and the default cube size to 1.6.
+
+Licensed under GPL3 just in case, since I copied a bit of code from blockbench. 
