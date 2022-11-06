@@ -7,7 +7,7 @@
 */
 
 /*
-Some code of this plugin was copied and modified from java_block.js of blockbench (https://github.com/JannisX11/blockbench), on Nov. 5, 2022.
+Some code of this plugin was copied and modified from java_block.js of the master branch of blockbench (https://github.com/JannisX11/blockbench), on Nov. 5, 2022.
 */
 
 Plugin.register('minetest_nodebox', {
